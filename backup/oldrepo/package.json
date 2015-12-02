@@ -1,0 +1,23 @@
+{
+  "name": "vanimakhelek.github.io",
+  "version": "1.0.0",
+  "description": "vanimakhelek.github.io ======================",
+  "main": "app.js",
+  "dependencies": {
+    "node.js": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vanimakhelek/vanimakhelek.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanimakhelek/vanimakhelek.github.io/issues"
+  },
+  "homepage": "https://github.com/vanimakhelek/vanimakhelek.github.io"
+}
